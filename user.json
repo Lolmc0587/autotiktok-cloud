@@ -586,23 +586,5 @@
         "device": [
             "c8654e19c1c521686753c8235e7276ae"
         ]
-    },
-    {
-        "username": "MFwgN+55B0pN79ozyelUeULQgvatPv7SRK091OM2HiBMxDznjlhYYq2+XawH1VT+cH30KcSBSdIOO75mqbAZILMtt3ZdUSKaEwHthuKefYk68MJTK14rcyjYt/yuwksIiYEwMZ7C2Pk3j50lhI5Ux2YGWn/9qPiy/zqKVpXP6dllFNxmxVPHSG7d5myF9ozqQhsMAj7EE8QtkjCTsZFGbEXnyGcvwyWHYIU/JD03MFV9zEufWITkS2UAygEXEAm8Yw85nVLkYRqM+hO5U+vbALA+fMb5a1S78nvggl8O/RJYGoVacxpaFrAn0J8te+P4l+Ld4i2SXjI8Pb6q9mKQrw==",
-        "role": "Member",
-        "expire_timestamps": 1660834327.0,
-        "device": "12"
-    },
-    {
-        "username": "ENPokEyL6h85mfsJ6kf7xwMQbQ8mzOL/tU6MECLm+EyKhDMX1rRKJookWOUsGiYMA1qrScrHIZA9PeGkIR9pgn6NLhZ+dSd9upKBDrsrPi6cddOTIBx0rPfvtEiB2hr8Zoiikjsfeoq+vaTwYxM71lfvJYZn28GB1ku++/q6clHdi/ES/FImoe7iIaOYPNHzKjeEO0bzoL2/rKZeJfAFN++4CdJ6mfGt0BNfJObH5yVM2b+vweolK7wNftHxu2AwwT2A6xBHlYdCnevzOdnlp1nNtF3ii3KTBR2eYGu4nZq4PLyaDVqEHIZroeHaeuflm4ey7Xkj0AL5pnAjaIgW3A==",
-        "role": "Member",
-        "expire_timestamps": 1660884313.0,
-        "device": "123"
-    },
-    {
-        "username": "EBYjqHmLOzemAbYZh3flmJrYuAG7LApKNf+crxmda5LJgNfLbGK/kao3gfOsiD0vKezcJnA2Hs8m98mYOVr0GGQWTwHIXymDscEEqO5Qnf6BNxOFnU06m697Ey2VPIME+QVuDJO4ZzbCzUlEhOJhYLJW+hrkB/FKcffYtnKWVvmu47w4QB+7eH9FfsXi92TntVEMNEROy+joDofmLYCXf3RPBWj0OgSY5IStnyBzSnCOFcIic2E5nfxDnLHAERugMdI2xPb/46Bqogo1nxzFrTVI2a2ZC0QD+qUrRevBjix3h9KMcm8MCuV7hR32+puOkjEEFF2IjYNVcuDSx65fAQ==",
-        "role": "Member",
-        "expire_timestamps": 1660884321.0,
-        "device": "123"
     }
 ]
