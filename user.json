@@ -621,7 +621,8 @@
         "role": "Member",
         "expire_timestamps": 1660928314.0,
         "device": [
-            "d748b9ce3e87e4eaf8919537e780157b"
+            "d748b9ce3e87e4eaf8919537e780157b",
+            "71d233507e7f7de8d9e81c7d9ca7091f"
         ]
     }
 ]
