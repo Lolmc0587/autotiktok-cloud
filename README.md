@@ -46,4 +46,4 @@
   * Thêm tự cấu hình tds (selenium)
   * Fix tim không tìm thấy video
 
-* Download: 
+* Download: https://www.mediafire.com/file/52on7f0ci06hb3c/run_tool.rar/file
